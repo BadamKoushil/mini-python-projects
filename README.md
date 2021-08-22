@@ -1,2 +1,2 @@
 # mini-python-projects
-here are some simple intersesthing python projects for every beginner must do
+here are some simple interesting python projects for every beginner must do
